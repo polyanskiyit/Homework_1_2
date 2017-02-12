@@ -4,3 +4,6 @@ C:\Users\Администратор\Google Drive\Курс С#\Homework_1\Homewor
 C:\Users\Администратор\Google Drive\Курс С#\Homework_1\Homework_1_2\Homework_1_2\obj\Debug\Homework_1_2.csprojResolveAssemblyReference.cache
 C:\Users\Администратор\Google Drive\Курс С#\Homework_1\Homework_1_2\Homework_1_2\obj\Debug\Homework_1_2.exe
 C:\Users\Администратор\Google Drive\Курс С#\Homework_1\Homework_1_2\Homework_1_2\obj\Debug\Homework_1_2.pdb
+C:\C-Sharp-Course\Homework_1_2\Homework_1_2\bin\Debug\Homework_1_2.exe.config
+C:\C-Sharp-Course\Homework_1_2\Homework_1_2\obj\Debug\Homework_1_2.exe
+C:\C-Sharp-Course\Homework_1_2\Homework_1_2\obj\Debug\Homework_1_2.pdb
