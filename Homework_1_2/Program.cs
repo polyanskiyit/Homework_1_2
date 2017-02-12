@@ -17,6 +17,8 @@ namespace Homework_1_2
 
             Console.WriteLine("Hellow Git IV");
 
+            Console.WriteLine("Hellow Git V");
+
             Console.WriteLine(
                 radius.RadiusOfTheCircle(R)
                 );
