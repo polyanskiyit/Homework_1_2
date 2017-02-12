@@ -15,10 +15,6 @@ namespace Homework_1_2
 
             Radius radius = new Radius();
 
-            Console.WriteLine("Hellow Git IV");
-
-            Console.WriteLine("Hellow Git V");
-
             Console.WriteLine(
                 radius.RadiusOfTheCircle(R)
                 );

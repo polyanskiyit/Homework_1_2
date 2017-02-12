@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace Homework_1_2
 {
-    class Radius
+    class Radius : A
     {
-        public double RadiusOfTheCircle(double Radius)
+        public override double RadiusOfTheCircle(double Rad)
         {
-            return Math.PI * Math.Pow(Radius, 2);
+            return Math.PI * Math.Pow(Rad, 2);
         }
+        //public double RadiusOfTheCircle(double Radius)
+        //{
+        //    return Math.PI * Math.Pow(Radius, 2);
+        //}
     }
 }
